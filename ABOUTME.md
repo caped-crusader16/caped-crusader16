@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=caped-crusader16&label=PROFILE+VIEWS&color=red" alt="caped-crusader16">
 </div>
 
-## Hola Amigos:heart-eyes: !!!
+## Hola Amigos:heart_eyes: !!!
 
 # Manav Vagrecha :star2:
 
