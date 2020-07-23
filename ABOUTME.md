@@ -7,9 +7,11 @@
   <p><i> "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away" </i></p>
   <h6> - Antoine De Saint-Exupery </h6>
 </div>
+<br />
+<br />
 
 # Myself, Manav Vagrecha&nbsp;:star2:
-
+<br/>
 <details>
   <summary> <strong> About Me&nbsp;:v: </strong> </summary>
   
@@ -43,10 +45,13 @@
 
 - *To be Continued..*:grin:
 </details>
+<br />
+<br />
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=caped-crusader16&&show_icons=true&theme=radical" alt="My Github Profile Status">
 </p>  
+<br/>
 
 <div align="center">
   <h3 align="center">Require any help?? Feel free to Contact me<img align="center" src="https://github.com/caped-crusader16/caped-crusader16/master/Handshake.gif" height="33px" /></h3> 
@@ -63,5 +68,6 @@
  </a>
   <br/>
   <br/>
-  Thanks for stopping by 😁<br/>
+  Thanks for stopping by :pray:<br/>
+  Give a :star: if you :thumbsup: my Repositories and Work.
 </p>
