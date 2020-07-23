@@ -1,8 +1,8 @@
 <p align="right">
-  ![](https://komarev.com/ghpvc/?username=caped-crusader16&label=PROFILE+VIEWS&color=red)
+  <img src="https://komarev.com/ghpvc/?username=caped-crusader16&label=PROFILE+VIEWS&color=red" alt="caped-crusader16">
 </p>
 
-#Manav Vagrecha
+# Manav Vagrecha
 
 <p align="left">
   <a href="mailto:manavkumar.v@ahduni.edu.in"><img src="https://image.flaticon.com/icons/svg/725/725643.svg" height="20" width="20" /></a> &nbsp; &nbsp; &nbsp;
