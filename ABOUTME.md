@@ -12,7 +12,7 @@
 
 # Myself, Manav Vagrecha&nbsp;:star2:
 <br/>
-<details>
+<details open>
   <summary> <strong> About Me&nbsp;:v: </strong> </summary>
   
 - Student at [***Ahmedabad University***](https://ahduni.edu.in/) pursuing Bachelors degree in Information and Communication Technology ***(B.Tech-I.C.T.)***.  
@@ -22,15 +22,21 @@
 
 </details>
   
-<details>
+<details open>
   <summary> <strong> Recents&nbsp;:sweat_smile: </strong> </summary>
 
 - Learning Data Science with Python.
 - Learning few Machine Learning Concepts.
 - Competitive Programming
 </details>
-<details>
+<details open>
 <summary><strong>To-Do&nbsp;:memo:</strong></summary>
+
+
+- [ ] **Web-Dev**
+  * ReactJS
+  * NodeJS
+  * Redux
 
 - [ ] **App-Dev**
   * AngularJS
